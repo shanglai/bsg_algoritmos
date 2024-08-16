@@ -5,4 +5,5 @@
 
 [Funciones de Hash](https://colab.research.google.com/drive/14-fPcPvW8InQgDRAUfsZ-_u5GxKtxOAh?usp=sharing)
 
+[Grafos](https://colab.research.google.com/drive/1K_eRJQdeKlPF7r6lNdU6KKnxe_shbXY7?usp=sharing)
 
